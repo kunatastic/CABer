@@ -1,0 +1,60 @@
+#mainwrapper{
+	width:600px;
+	margin:0 auto;
+	background: white;
+	padding: 10px;
+	border-radius: 10px;
+	border: 1px solid #2c3e50;
+}
+
+.inputvalues{
+	margin-top: 10px;
+	width: 415px ;
+	margin:5px;
+	padding: 5px;
+	height: 30px;
+	font-size: 20px;
+	border:1.2px solid #ccc;
+}
+
+.myform{
+	width:450px;
+	margin: 0 auto;
+	padding: 5px;
+}
+body{
+	background-color: #f6cd61;
+	margin: 0;
+	padding: 0;
+}
+
+.signout_btn{
+	margin-left: 10px;
+	margin-top:10px;
+	margin-bottom:10px;
+	background-color: #283655;
+	padding:5px;
+	color:white;
+	width:30%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	border-radius:5px;
+	height: 35px;		
+}
+.back_login{ 
+	margin-left:40px;
+	margin-bottom:10px;
+	background-color: #283655;
+	padding:5px;
+	color:white;
+	width:30%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	border-radius:5px;	
+	height: 35px;
+}
+#regno{
+	text-transform: uppercase;
+}

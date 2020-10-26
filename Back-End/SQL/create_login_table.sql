@@ -1,0 +1,1 @@
+create table signup (Name varchar2(30) not null,Reg_no varchar2(9) unique,Username varchar2(20) primary key, phone_no int not null,email_id varchar2(40) unique,password varchar2(20) not null);

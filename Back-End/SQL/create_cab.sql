@@ -1,0 +1,1 @@
+create table cab (Username varchar(20) references signup(Username), travel_date date not null,travel_time varchar(15) not null,location varchar(20) not null);
