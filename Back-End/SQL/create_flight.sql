@@ -1,0 +1,1 @@
+create table flight (Username varchar(20) references signup(Username), travel_date date not null,location varchar(20) not null);
